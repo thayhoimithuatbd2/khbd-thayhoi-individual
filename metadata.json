@@ -1,0 +1,8 @@
+{
+  "name": " Tạo KHBD Mĩ Thuật Tiểu Học RIÊNG HỢI",
+  "description": "Hệ thống tự động xây dựng Kế hoạch bài dạy (KHBD) môn Mĩ thuật Tiểu học theo từng khối từ Tuần 1 đến 35 chuẩn văn bản Word/DOCX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
